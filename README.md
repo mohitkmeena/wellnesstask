@@ -83,6 +83,4 @@ MIT License
 ## Contact
 Mohit Kumar Meena
 mohitmeenag2005@gmail.com
-```
 
-Would you like me to elaborate on any specific section of the README?
