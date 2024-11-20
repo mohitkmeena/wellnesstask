@@ -49,7 +49,7 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-## API Endpoints
+4. Use PostMan to use it easily  with basic authentication username : root and password :root 
 
 ### Task Management
 - `GET /tasks`: Retrieve all tasks
